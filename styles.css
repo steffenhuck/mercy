@@ -80,12 +80,19 @@ body {
   margin-top: 4px;
 }
 
+.signature {
+margin-top: 60px;
+text-align: center;
+font-size: 0.95rem;
+}
+
 .signature a {
-  color: inherit;
-  text-decoration: none;
-  letter-spacing: 0.28em;
+display: inline-block;
+color: inherit;
+text-decoration: none;
+letter-spacing: 0.28em;
 }
 
 .signature a:hover {
-  color: #aaa;
+color: #aaa;
 }
