@@ -81,11 +81,11 @@ body {
 }
 
 .signature a {
-  color: #888;
+  color: inherit;
   text-decoration: none;
   letter-spacing: 0.28em;
 }
 
 .signature a:hover {
-  color: #fff;
+  color: #aaa;
 }
